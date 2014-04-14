@@ -1,3 +1,5 @@
 Debug/murder
 Debug/src/*.d
 Debug/src/*.o
+data/
+/Debug
