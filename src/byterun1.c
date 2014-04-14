@@ -1,4 +1,4 @@
-/* This file is part of remuder
+/* This file is part of remurder
  *
  * Copyright (C) 2014  Hein-Pieter van Braam <hp@tmm.cx>
  *
