@@ -1,0 +1,19 @@
+WiP reimplementation of 'Murder makes strange bedfellows'
+
+Build instructions:
+
+# cd Debug
+# make
+
+This will yield the binary 'murder'. Currently this is just a resource dumper/display tool. Run with a MMSDF datafile.
+
+We currently support:
+
+* Palettes
+* All image formats
+* Audio format
+
+Not yet supporterd:
+
+* Logic (if it exists)
+* Cursors
